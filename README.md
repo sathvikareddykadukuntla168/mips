@@ -15,3 +15,5 @@ This project is built using logisim software in which we need to build gate leve
 # Essence of the Project
  This project is mainly built to optimize the execution time of instructions in mips processor using the pipeline and ofcourse the problems that arises due to pipeling are solved using special blocks built.(ex: RAW dependency,control dependency,etc)
  
+# Detailed documentation of the Project
+https://docs.google.com/document/d/1O2LEcP_pM4IBxW2Ue_-kueMnf9IIoJdSWh6B7Rw7REs/edit?usp=sharing
